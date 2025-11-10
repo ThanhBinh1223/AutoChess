@@ -1,0 +1,5 @@
+AutoChess/League[[:space:]]of[[:space:]]Destiny_Data/level6.resS filter=lfs diff=lfs merge=lfs -text
+AutoChess/League[[:space:]]of[[:space:]]Destiny_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+AutoChess/League[[:space:]]of[[:space:]]Destiny_Data/sharedassets3.assets.resS filter=lfs diff=lfs merge=lfs -text
+AutoChess/League[[:space:]]of[[:space:]]Destiny_Data/sharedassets6.assets.resS filter=lfs diff=lfs merge=lfs -text
+AutoChess/League[[:space:]]of[[:space:]]Destiny_Data/sharedassets68.assets.resS filter=lfs diff=lfs merge=lfs -text
